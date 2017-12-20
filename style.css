@@ -1,7 +1,17 @@
-p {
-  color: red;
-  }
-  
-.Poem {
-	color: rgb(0,200,0);
+.header {
+	background-color: rgb(20, 83, 186);
+	font-size: 51px
+	font-family: 'Acme', sans-serif;
+	color: black;
+}
+
+nav li {
+	height: 20px;
+	margin-top: 100px
+	color: white;
+	width: 70
+	text-align: center;
+	background-color: rgb(1, 4, 183);
+	position: fixed;
+	z-index: 8;
 }
