@@ -1,0 +1,14 @@
+a {
+	color: rgb(0, 97, 255);
+	background-color: rgb(91, 99, 93);
+	float: left;
+}
+
+h1 {
+	text-align: center;
+	color: rgb(91, 99, 93);
+}
+
+.main p {
+	text-indent: 50px;
+}
